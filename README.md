@@ -23,4 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayuresh28&show_icons=true&locale=en" alt="mayuresh28" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuresh28&" alt="mayuresh28" /></p>
-[![Mayuresh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mayuresh28)](https://github.com/Mayuresh28/github-readme-activity-graph)
+

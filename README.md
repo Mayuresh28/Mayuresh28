@@ -1,13 +1,26 @@
 <!-- [![MasterHead](https://wallpaperaccess.com/full/2877459.jpg)](https://rishavchanda.io)-->
 
+<div align="center">
+  <a href="https://rishavchanda.io">
+    <img src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" alt="MasterHead" width="450" ">
+    
+  </a>
+</div>
+
+<br/>
+<br/>
+
+
 <h1 align="center">Hi 👋, I'm Mayuresh Muluk</h1>
+<br/>
+
 <h3 align="center">A passionate Web Developer , UI / UX Designer , AI-ML Enthusiast and a Cloud Enthusiast</h3>
 
-
+<br/><br/>
 
 ## 🙋‍♂️ About Me
 <br/>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c7/15/4b/c7154b20aa547387ea43913c4adcadc9.png">
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/c7/15/4b/c7154b20aa547387ea43913c4adcadc9.png">
 
 - 🔭 I’m currently working on **EchoSigns : American Sign Language Converter**
 
@@ -17,7 +30,8 @@
 
 - 📄 Know about my experiences :  [ **My Resume** ](https://drive.google.com/drive/folders/16qDD7AbTSL9j9NrBbfG1OPJXAi7W1ipB?usp=sharing)
 
-- ⚡ Fun fact : **How do you break up with an overloaded cloud provider? You say, “It’s not you; it’s AWS!”**
+- ⚡ Fun fact : **How do you break up with an overloaded cloud provider?**
+     <br/> **You say, “It’s not you; it’s AWS!”**
 
   <br/><br/>
 

@@ -55,3 +55,7 @@
     <img src="https://komarev.com/ghpvc/?username=Mayuresh28">
 </a>
 <a href="https://github.com/Mayuresh28?tab=followers"><img src="https://img.shields.io/github/followers/Mayuresh28?label=Followers&style=social" alt="GitHub Badge"></a>
+
+![snake animation](https://github.com/Mayuresh28/Mayuresh28/blob/output/github-contribution-grid-snake2.svg)
+
+

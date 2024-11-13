@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/2877459.jpg)](https://rishavchanda.io)
+<!-- [![MasterHead](https://wallpaperaccess.com/full/2877459.jpg)](https://rishavchanda.io)-->
 
 <h1 align="center">Hi 👋, I'm Mayuresh Muluk</h1>
 <h3 align="center">A passionate Web Developer , UI / UX Designer , AI-ML Enthusiast and a Cloud Enthusiast</h3>

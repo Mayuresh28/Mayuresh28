@@ -20,7 +20,7 @@
 
 ## 🙋‍♂️ About Me
 <br/>
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/c7/15/4b/c7154b20aa547387ea43913c4adcadc9.png">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/c7/15/4b/c7154b20aa547387ea43913c4adcadc9.png">
 
 - 🔭 I’m currently working on **EchoSigns : American Sign Language Converter**
 
